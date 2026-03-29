@@ -1,3 +1,2 @@
 # data-analytics-assignment
-Excel-based financial data analysis project focus on Regression, Forecasting and Index.
 This project focuses on forecasting, modeling, and budgeting using Excel’s Data Analysis tools. For the forecasting and modeling part, I used regression analysis and Excel’s forecasting tools to analyze trends and support predictions. For the budgeting part, I built a comprehensive budget model by using the INDEX function to link and retrieve data across multiple worksheets.
